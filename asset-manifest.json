@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/Runner-Game-Unity3d-WebGL-ReactJS/static/js/main.85e480c2.chunk.js",
+    "main.js.map": "/Runner-Game-Unity3d-WebGL-ReactJS/static/js/main.85e480c2.chunk.js.map",
+    "runtime-main.js": "/Runner-Game-Unity3d-WebGL-ReactJS/static/js/runtime-main.bb268374.js",
+    "runtime-main.js.map": "/Runner-Game-Unity3d-WebGL-ReactJS/static/js/runtime-main.bb268374.js.map",
+    "static/js/2.6e089b67.chunk.js": "/Runner-Game-Unity3d-WebGL-ReactJS/static/js/2.6e089b67.chunk.js",
+    "static/js/2.6e089b67.chunk.js.map": "/Runner-Game-Unity3d-WebGL-ReactJS/static/js/2.6e089b67.chunk.js.map",
+    "static/js/3.7e71ac44.chunk.js": "/Runner-Game-Unity3d-WebGL-ReactJS/static/js/3.7e71ac44.chunk.js",
+    "static/js/3.7e71ac44.chunk.js.map": "/Runner-Game-Unity3d-WebGL-ReactJS/static/js/3.7e71ac44.chunk.js.map",
+    "index.html": "/Runner-Game-Unity3d-WebGL-ReactJS/index.html",
+    "static/js/2.6e089b67.chunk.js.LICENSE.txt": "/Runner-Game-Unity3d-WebGL-ReactJS/static/js/2.6e089b67.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb268374.js",
+    "static/js/2.6e089b67.chunk.js",
+    "static/js/main.85e480c2.chunk.js"
+  ]
+}
