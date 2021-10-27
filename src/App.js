@@ -1,10 +1,12 @@
-import Unity, { UnityContext } from "react-unity-webgl"
+import React from "react";
+// import Unity from "react-unity-webgl"
+import Unity, {UnityContext} from "react-unity-webgl"
 
 const unityContext = new UnityContext({
-    loaderUrl: "./Runner-Game-Unity3d-WebGL/Build/Runner-Game-Unity3d-WebGL.loader.js",
-    dataUrl: "./Runner-Game-Unity3d-WebGL/build/Runner-Game-Unity3d-WebGL.data",
-    frameworkUrl: "./Runner-Game-Unity3d-WebGL/build/Runner-Game-Unity3d-WebGL.framework.js",
-    codeUrl: "./Runner-Game-Unity3d-WebGL/build/Runner-Game-Unity3d-WebGL.wasm",
+    loaderUrl: "./Game/Build/Build.loader.js",
+    dataUrl: "./Game/build/Build.data",
+    frameworkUrl: "./Game/build/Build.framework.js",
+    codeUrl: "./Game/build/Build.wasm",
 })
 
 function App() {
@@ -18,7 +20,7 @@ function App() {
           backround: "green"
         }}
         unityContext={unityContext}
-    ></Unity>
+    />
   </div>
 }
 
