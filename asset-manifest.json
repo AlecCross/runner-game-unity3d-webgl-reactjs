@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/runner-game-unity3d-webgl-reactjs/static/js/main.50079c56.chunk.js",
-    "main.js.map": "/runner-game-unity3d-webgl-reactjs/static/js/main.50079c56.chunk.js.map",
-    "runtime-main.js": "/runner-game-unity3d-webgl-reactjs/static/js/runtime-main.9ecd5de0.js",
-    "runtime-main.js.map": "/runner-game-unity3d-webgl-reactjs/static/js/runtime-main.9ecd5de0.js.map",
-    "static/js/2.a79f07f2.chunk.js": "/runner-game-unity3d-webgl-reactjs/static/js/2.a79f07f2.chunk.js",
-    "static/js/2.a79f07f2.chunk.js.map": "/runner-game-unity3d-webgl-reactjs/static/js/2.a79f07f2.chunk.js.map",
-    "static/js/3.074641ae.chunk.js": "/runner-game-unity3d-webgl-reactjs/static/js/3.074641ae.chunk.js",
-    "static/js/3.074641ae.chunk.js.map": "/runner-game-unity3d-webgl-reactjs/static/js/3.074641ae.chunk.js.map",
-    "index.html": "/runner-game-unity3d-webgl-reactjs/index.html",
-    "static/js/2.a79f07f2.chunk.js.LICENSE.txt": "/runner-game-unity3d-webgl-reactjs/static/js/2.a79f07f2.chunk.js.LICENSE.txt"
+    "main.js": "/static/js/main.9fa59a36.chunk.js",
+    "main.js.map": "/static/js/main.9fa59a36.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c2d05b34.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c2d05b34.js.map",
+    "static/js/2.a79f07f2.chunk.js": "/static/js/2.a79f07f2.chunk.js",
+    "static/js/2.a79f07f2.chunk.js.map": "/static/js/2.a79f07f2.chunk.js.map",
+    "static/js/3.074641ae.chunk.js": "/static/js/3.074641ae.chunk.js",
+    "static/js/3.074641ae.chunk.js.map": "/static/js/3.074641ae.chunk.js.map",
+    "index.html": "/index.html",
+    "static/js/2.a79f07f2.chunk.js.LICENSE.txt": "/static/js/2.a79f07f2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9ecd5de0.js",
+    "static/js/runtime-main.c2d05b34.js",
     "static/js/2.a79f07f2.chunk.js",
-    "static/js/main.50079c56.chunk.js"
+    "static/js/main.9fa59a36.chunk.js"
   ]
 }
